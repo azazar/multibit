@@ -92,7 +92,7 @@ An announcement is made on the MultiBit website and social media (Twitter, Reddi
 The important targets are:
 
 ```
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 After some processing, you will have the following artifacts in the target directory:
